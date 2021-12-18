@@ -1,8 +1,8 @@
 #![allow(dead_code)]
 #![allow(unused_variables)]
-mod eleven;
+mod twelve;
 mod read_file;
 
 fn main() {
-    eleven::a("txts/eleven_test_2.txt");
+    twelve::a("txts/twelve_test.txt");
 }
